@@ -1,0 +1,1 @@
+This expense tracker helps user track their expenses and manage their finances effectively. It typically allow user to input their their expenses,categorize them and view a summary of their financial transactions yearly.
